@@ -11,7 +11,7 @@ I enjoy working with datasets, discovering patterns, building predictive models,
 - 🐍 **Programming:** Python
 - 🧠 **Currently Learning:** Machine Learning and predictive analytics
 - 🛠️ **Goal:** Build practical, well-documented Data Science projects
-- 📫 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jagadeepjaladi29/)
+- 📫 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/jagadeepjaladi/)
 
 ---
 
@@ -60,7 +60,7 @@ An end-to-end Data Science project exploring anime ratings, popularity, genres, 
 
 **Tech stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
-🔗 [View Project Repository](#)
+🔗 [View Project Repository](https://github.com/jagadeep2935/anime-data-science-project)
 
 ### 2. Air Pollution Analysis Dashboard
 
@@ -74,7 +74,7 @@ A Power BI dashboard exploring air pollution data, including PM2.5 and PM10 meas
 
 **Tech stack:** Power BI, Data Analysis, Data Visualization, DAX.
 
-🔗 [View Project Repository](#)
+🔗 [View Project Repository](https://github.com/jagadeep2935/air-pollution-analysis-dashboard)
 
 ### 3. E-commerce Customer Analysis & Spending Prediction
 
@@ -88,7 +88,7 @@ A machine learning project analyzing e-commerce customer behavior and predicting
 
 **Tech stack:** Python, Pandas, NumPy, Scikit-learn.
 
-🔗 [View Project Repository](#)
+🔗 [View Project Repository](https://github.com/jagadeep2935/ecommerce-customer-analysis)
 
 ### 4. AuraTelemed — Telemedicine Consultation Portal
 
@@ -103,7 +103,7 @@ A full-stack web application developed as part of a team project to support onli
 
 **Tech stack:** React, Vite, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, Gemini API.
 
-🔗 [View Project Repository](#)
+🔗 [View Project Repository](https://github.com/jagadeep2935/AuraTelemed)
 
 ---
 
@@ -121,7 +121,7 @@ A full-stack web application developed as part of a team project to support onli
 
 I'm interested in Data Science, Data Analytics, Machine Learning, and opportunities to collaborate on meaningful technical projects.
 
-- **LinkedIn:** [Jagadeep Jaladi](https://www.linkedin.com/in/jagadeepjaladi29/)
+- **LinkedIn:** [Jagadeep Jaladi](https://www.linkedin.com/in/jagadeepjaladi/)
 - **GitHub:** Explore my repositories to follow my learning and project work.
 
 ---
